@@ -1,0 +1,23 @@
+{
+  "name": "texas-spa-bbq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightBoost/texas-spa-bbq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrightBoost/texas-spa-bbq/issues"
+  },
+  "homepage": "https://github.com/BrightBoost/texas-spa-bbq#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

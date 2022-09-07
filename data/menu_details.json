@@ -1,0 +1,80 @@
+[
+  {
+    "id": "B1",
+    "item": "Brisket and Egg Sandwich",
+    "price": 4.24,
+    "menu": "Breakfast"
+  },
+  {
+    "id": "B2",
+    "item": "Sausage and Egg Sandwich",
+    "price": 4.24,
+    "menu": "Breakfast"
+  },
+  {
+    "id": "B3",
+    "item": "Brisket, Egg and Cheese Breakfast Bowl",
+    "price": 6.24,
+    "menu": "Breakfast"
+  },
+  {
+    "id": "L1",
+    "item": "Chopped Brisket Sandwich Basket",
+    "price": 10.97,
+    "menu": "Lunch"
+  },
+  {
+    "id": "L2",
+    "item": "Sliced Brisket Sandwich Basket",
+    "price": 11.97,
+    "menu": "Lunch"
+  },
+  {
+    "id": "L3",
+    "item": "Sliced Sausage Sandwich Basket",
+    "price": 9.97,
+    "menu": "Lunch"
+  },
+  {
+    "id": "D1",
+    "item": "Brisket Dinner Platter",
+    "price": 20.79,
+    "menu": "Dinner"
+  },
+  {
+    "id": "D2",
+    "item": "Rib Dinner Platter",
+    "price": 23.79,
+    "menu": "Dinner"
+  },
+  {
+    "id": "D3",
+    "item": "Sausage Dinner Platter",
+    "price": 17.79,
+    "menu": "Dinner"
+  },
+  {
+    "id": "D4",
+    "item": "Smoked Turkey Dinner Platter",
+    "price": 16.79,
+    "menu": "Dinner"
+  },
+  {
+    "id": "D5",
+    "item": "Combo Meat Dinner Platter",
+    "price": 22.79,
+    "menu": "Dinner"
+  },
+  {
+    "id": "C1",
+    "item": "Brisket Meal for 4",
+    "price": 72.00,
+    "menu": "Catering"
+  },
+  {
+    "id": "C2",
+    "item": "Baby Back Rib Meal for 4",
+    "price": 80.00,
+    "menu": "Catering"
+  }
+]
